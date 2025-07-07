@@ -7,4 +7,12 @@ format: html
 
 ## My Job Description
 
-Using STATA, I assist PhD students in analyzing microdata from the Indonesian Family Life Survey (IFLS) to assess the impact of climate change on farmer household income and labor mobility in Indonesia. This involves cleaning and preparing data, running statistical analyses, and interpreting results.
+Using STATA, I assist PhD students in analyzing microdata from the Indonesian Family Life Survey (IFLS) to assess the impact of climate change on farmer household income and labor mobility in Indonesia. This involves cleaning and preparing data and running statistical analyses.
+
+## Lessons Learned
+### STATA vs R
+
+I'm an **R** fanboy even though **STATA** was the first statistical software I learned. The first challenge that I faced was the documentation. Even AI (LLM) can't fix errors in **STATA** code. This type of license is not open source, so I cannot access the documentation freely. I have to rely on the official documentation and some online resources, which are not as comprehensive as **R**'s documentation. This makes it harder to find solutions to specific problems or errors in my code.
+
+The second challenge is the syntax, which is different from **R**. So my trick for cleaning data is to use **R** and then export the data to **STATA**. I essentially just use **STATA** for modeling.
+
